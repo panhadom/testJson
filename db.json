@@ -28,7 +28,7 @@
             "BINCode":"A-10-001",
             "Skipped":false,
             "Finished":false,
-            "AssignedUserId":"Lyhor"
+            "AssignedUserId":""
          },
          {
             "aiWMSNo":"IO20250620-0001",
@@ -45,7 +45,7 @@
             "BINCode":"A-10-004",
             "Skipped":false,
             "Finished":false,
-            "AssignedUserId":"Lyhor"
+            "AssignedUserId":""
          },
          {
             "aiWMSNo":"IO20250620-0001",
@@ -62,7 +62,7 @@
             "BINCode":"A-10-001",
             "Skipped":false,
             "Finished":false,
-            "AssignedUserId":"Lyhor"
+            "AssignedUserId":""
          },
          {
             "aiWMSNo":"IO20250620-0001",
@@ -79,7 +79,7 @@
             "BINCode":"A-10-004",
             "Skipped":false,
             "Finished":false,
-            "AssignedUserId":"Lyhor"
+            "AssignedUserId":""
          }
       ]
    }
